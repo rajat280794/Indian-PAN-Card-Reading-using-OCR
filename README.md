@@ -1,4 +1,4 @@
-# ID_Card_OCR_Project
+# Indian PAN Card Reading using OCR 
 The purpose of this Project is to efficiently extract the text contained in a ID Card image and store it in a JSON.We are using the following libraries.
 It won't run on noisy images with salt & pepper grains and/or poor image quality, i.e. anything below 300 DPI. More information can be found [here](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35248.pdf)
 ## IDE and list of libraries used:
